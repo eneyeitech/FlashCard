@@ -1,0 +1,4 @@
+print():outputs text
+str():converts to string
+apple:apple
+Russia:Moscow
